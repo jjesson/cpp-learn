@@ -9,3 +9,6 @@ Program 1: Hello World.
   This is designed to teach me the extreme basics of how to set up a program
   
   
+Prgram 2 : Odd Echo.
+  This program takes in a set of inputs and then returns only the odd indexed codes
+  
